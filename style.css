@@ -1,0 +1,52 @@
+.smartphone{
+    padding: 60px 0px;
+}
+.card-body-section{
+    background-color: #FCFCFC;
+}
+.card-body-item{
+    text-align: center;
+}
+.buy-now{
+    background-color: black;
+    padding: 8px 16px;
+    color: white;
+}
+.buy-now:hover{
+    color: blueviolet;
+}
+.carousel-indicators .active{
+    padding: 2px;
+    background-color: #FFC41F;
+}
+.carousel-indicators li{
+    padding: 2px;
+    background-color: gray;
+}
+.text-design{
+    font-size: 20px;
+    font-weight: 700;
+}
+.p-text{
+    color: #FF9E04;
+    cursor: pointer;
+}
+.laptop{
+    padding: 60px 0px;
+}
+.icon-design{
+    width: 120px;
+    height: 5px;
+    background-color: #FFC41F;
+    border-radius: 5px;
+}
+.categories{
+    background-color: #F9F9F9;
+    padding: 60px 0;
+}
+.categories h2{
+    text-align: center;
+}
+.category-heading{
+    padding-bottom: 60px;
+}
